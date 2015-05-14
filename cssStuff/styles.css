@@ -1,0 +1,32 @@
+body {
+  font-family: helvetica;
+}
+
+p {
+  background-color: pink;
+}
+
+.red {
+  color: red;
+}
+
+.banana {
+  background-color: yellow;
+}
+
+ul.banana {
+  color : darkblue;
+}
+
+#orange {
+  color: white;
+}
+
+.bisque-colored-list {
+  color: darkblue;
+}
+
+ul li {
+  font-weight: bold;
+  font-family: georgia;
+}

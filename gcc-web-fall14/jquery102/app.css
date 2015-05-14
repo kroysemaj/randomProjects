@@ -1,0 +1,19 @@
+.first{
+  height: 250px;
+  width: 500px;
+  background-color: darkblue;
+}
+
+.second {
+  height: 250px;
+  width: 500px;
+  background-color: darkblue;
+}
+
+.green {
+  background-color: green;
+}
+
+.words{
+  font-size: 1.3em;
+}

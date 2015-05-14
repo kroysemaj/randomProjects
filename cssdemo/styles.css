@@ -1,0 +1,32 @@
+body{
+  background-color: black;
+}
+
+p{
+  color: purple;
+  font-size: 25em;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.h2{
+  color: blue;
+  font-size: 25em;
+  font-family: arial;
+  text-align: center;
+}
+
+#css{
+  color: red;
+  font-size: 15em;
+  font-family: cursive;
+  text-align: center;
+}
+
+body div p {
+  color: red;
+  font-size: 10em;
+  font-family: arial;
+  text-align: center;
+}
+

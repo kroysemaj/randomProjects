@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Moar Web Components</title>
+</head>
+<body>
+
+  <comment-form>
+    <h1>Tell Us What's On Your Mind!</h1>
+
+    <p>Fill out the form!</p>
+  </comment-form>
+
+  <template>
+    <fieldset>
+      <legend>
+        <content select='h1'></content>
+      </legend>
+
+      <content select='p'></content>
+
+      <textarea style="width: 400px; height: 200px;"></textarea>
+      <br>
+      <input type="submit" value="Submit Comment">
+
+      <content select=".footer"></content>
+    </fieldset>
+  </template>
+
+  <script src="shadowDom2.js" ></script>
+</body>
+</html>

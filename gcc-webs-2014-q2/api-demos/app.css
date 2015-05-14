@@ -1,0 +1,17 @@
+.container{
+  width: 720px;
+  margin: 0 auto;
+}
+
+.header{
+  height: 100px;
+}
+
+.demo {
+  height: 115%;
+}
+
+.sub-headings {
+  height: 65px;
+  margin: 25px 0 10px 0;
+}

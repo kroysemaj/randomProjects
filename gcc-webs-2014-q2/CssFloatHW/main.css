@@ -1,0 +1,20 @@
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.picBox{
+  float: left;
+  margin: 10px;
+  text-align: center;
+}
+p{
+  font-size: 32px;
+}
+
+p::first-letter {
+  font-size: 1.4em;
+  color: dodgerblue;
+  text-decoration: underline;
+}
+
